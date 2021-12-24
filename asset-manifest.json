@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/squiggly-muse-blog/static/css/main.d8b34fc7.css",
+    "main.js": "/squiggly-muse-blog/static/js/main.f9fc1809.js",
+    "static/js/787.1797f0e0.chunk.js": "/squiggly-muse-blog/static/js/787.1797f0e0.chunk.js",
+    "static/media/logo.svg": "/squiggly-muse-blog/static/media/logo.e99f51f9ef27f7c7625d809683da1864.svg",
+    "static/media/bg.svg": "/squiggly-muse-blog/static/media/bg.40fed8f4c187de5aeda1.svg",
+    "index.html": "/squiggly-muse-blog/index.html",
+    "static/media/arrow.svg": "/squiggly-muse-blog/static/media/arrow.2245cce0ca16a88f72666903f385cf20.svg",
+    "main.d8b34fc7.css.map": "/squiggly-muse-blog/static/css/main.d8b34fc7.css.map",
+    "main.f9fc1809.js.map": "/squiggly-muse-blog/static/js/main.f9fc1809.js.map",
+    "787.1797f0e0.chunk.js.map": "/squiggly-muse-blog/static/js/787.1797f0e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8b34fc7.css",
+    "static/js/main.f9fc1809.js"
+  ]
+}
